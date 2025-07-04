@@ -44,7 +44,7 @@ This project performs an end-to-end data analysis on Airbnb listings using Pytho
    ```bash
    git clone https://github.com/yourusername/airbnb-analysis.git
    cd airbnb-analysis
-```
+   ```
 2. Install required libraries (recommended to use a virtual environment):
     ```bash
       pip install -r requirements.txt

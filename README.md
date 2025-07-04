@@ -47,11 +47,11 @@ This project performs an end-to-end data analysis on Airbnb listings using Pytho
    ```
 2. Install required libraries (recommended to use a virtual environment):
     ```bash
-      pip install -r requirements.txt
+    pip install -r requirements.txt
    ```
 3. Open the notebook:
    ``` bash
-      jupyter notebook airbnb_analysis.ipynb
+   jupyter notebook airbnb_analysis.ipynb
    ```
 
 Janvi Parmar

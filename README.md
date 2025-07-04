@@ -49,10 +49,9 @@ This project performs an end-to-end data analysis on Airbnb listings using Pytho
     ```bash
       pip install -r requirements.txt
    ```
-
 3. Open the notebook:
-``` bash
-   jupyter notebook airbnb_analysis.ipynb
-```
+   ``` bash
+      jupyter notebook airbnb_analysis.ipynb
+   ```
 
 Janvi Parmar
